@@ -2,8 +2,6 @@
 Proyecto de clase dedicado a la programación y el diseño de software.
 Dante y el Reloj de las Sombras
 
-Proyecto de cuento web interactivo desarrollado para las subáreas de Programación Web y Diseño de Software (Nivel 10° - Sección 10-3).
-
 Descripción
 
 Dante y el Reloj de las Sombras es una página web interactiva de fantasía oscura, aventura y misterio. La historia sigue a Dante, un cazador de demonios, y a su aliada estratégica Lady, quienes investigan una extraña anomalía en la ciudad nocturna de Red Grave: un antiguo reloj gótico que ha detenido el tiempo a la medianoche. El objetivo es explorar la Torre del Reloj y descifrar el mecanismo central para liberar a la ciudad del hechizo.
